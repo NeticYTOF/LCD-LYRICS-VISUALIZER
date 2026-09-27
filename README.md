@@ -184,3 +184,4 @@ Edit `config.yaml` to customize:
         └── music_visualizer.ino  # Arduino sketch
 ```
 "# LCD-LYRICS-VISUALIZER" 
+"# LCD-LYRICS-VISUALIZER" 
